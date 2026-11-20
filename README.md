@@ -33,7 +33,7 @@ SELECT
     name           AS "Rushikesh Karale",
     role           AS "Data Analyst",
     location       AS "Pune, Maharashtra, India",
-    education      AS "BCA, MS Data Science",
+    education      AS "BCA, M.Sc Data Science",
     superpower     AS "Turning raw data into business decisions",
     current_focus  AS "DATA ANALYSIS"
 FROM   humans
