@@ -11,8 +11,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Data+%26+Analytics+Engineer;Cloud+Data+Pipelines+%26+BI;Turning+raw+data+into+business+decisions" alt="Typing SVG"/>
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rushikesh-karale-40b570179/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rushikarale7598@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=SanketPrabhune04&label=PROFILE+VIEWS&color=00D1FF&style=for-the-badge"/>
 
 <br/><br/>
