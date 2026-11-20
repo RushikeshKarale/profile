@@ -7,7 +7,7 @@
 
 <img src="profile.png" width="160" style="border-radius:50%"/>
 
-## 👋 Sanket Prabhune
+## 👋 Rushikesh Karale
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Data+%26+Analytics+Engineer;Cloud+Data+Pipelines+%26+BI;Turning+raw+data+into+business+decisions" alt="Typing SVG"/>
 
@@ -30,12 +30,12 @@
 
 ```sql
 SELECT
-    name           AS "Sanket Prabhune",
-    role           AS "Data & Analytics Engineer",
+    name           AS "Rushikesh Karale",
+    role           AS "Data Analyst",
     location       AS "Pune, Maharashtra, India",
-    education      AS "BBA, International Business",
+    education      AS "BCA, MS Data Science",
     superpower     AS "Turning raw data into business decisions",
-    current_focus  AS "Cloud data pipelines & BI"
+    current_focus  AS "DATA ANALYSIS"
 FROM   humans
 WHERE  curiosity = 'high'
   AND  coffee_level > 0
