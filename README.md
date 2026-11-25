@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header" width="100%"/>
 
-#<img src="profile.png" width="160" style="border-radius:50%"/>
+/<img src="profile.png" width="160" style="border-radius:50%"/>
 
 ## 👋 Rushikesh Karale
 
